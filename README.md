@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  <small><sub><i><font color="#6e7681">contact</font></i></sub></small>
+  <samp><i><font color="#484f58">contact</font></i></samp>
 </p>
 
 <p align="center">
