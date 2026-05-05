@@ -1,7 +1,7 @@
+<h1 align="center"><samp>Emir Yorgun</samp></h1>
+
 <p align="center">
   <samp>
-    <b>Emir Yorgun</b>
-    <br><br>
     Full-stack developer — from Web APIs to embedded systems.
     <br>
     Diverse background, pragmatic approach across a wide range of problem domains.
@@ -37,12 +37,18 @@
   <img src="https://img.shields.io/badge/Qt-0D1117?style=flat-square&logo=qt&logoColor=F0F6FC" alt="Qt" />
 </p>
 
-<h1 align="center" style="border: none;">
-  <sub><i>contact</i></sub>
-  <br>
-  <a href="https://www.linkedin.com/in/emiryorgun/"><big><kbd>&nbsp;LinkedIn&nbsp;</kbd></big></a>
-  &nbsp;
-  <a href="https://twitter.com/hootbu"><big><kbd>&nbsp;X&nbsp;</kbd></big></a>
-  &nbsp;
-  <a href="mailto:emiryorgun27@gmail.com"><big><kbd>&nbsp;Email&nbsp;</kbd></big></a>
-</h1>
+<br>
+
+<p align="center">
+  <small><sub><i><font color="#6e7681">contact</font></i></sub></small>
+</p>
+
+<p align="center">
+  <font size="6">
+    <a href="https://www.linkedin.com/in/emiryorgun/"><kbd>&nbsp;LinkedIn&nbsp;</kbd></a>
+    &nbsp;
+    <a href="https://twitter.com/hootbu"><kbd>&nbsp;X&nbsp;</kbd></a>
+    &nbsp;
+    <a href="mailto:emiryorgun27@gmail.com"><kbd>&nbsp;Email&nbsp;</kbd></a>
+  </font>
+</p>
