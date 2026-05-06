@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  $\color{#b1bac4}{\large{\textsf{contact}}}$<br>
+  <img src="contact.svg" alt="contact" /><br>
   <font size="6">
     <a href="https://www.linkedin.com/in/emiryorgun/"><kbd>&nbsp;LinkedIn&nbsp;</kbd></a>
     &nbsp;
