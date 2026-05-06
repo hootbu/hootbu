@@ -44,8 +44,8 @@
   <font size="6">
     <a href="https://www.linkedin.com/in/emiryorgun/"><kbd>&nbsp;LinkedIn&nbsp;</kbd></a>
     &nbsp;
-    <a href="https://twitter.com/hootbu"><kbd>&nbsp;X&nbsp;</kbd></a>
+    <a href="https://twitter.com/hootbu"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;X&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
     &nbsp;
-    <a href="mailto:emiryorgun27@gmail.com"><kbd>&nbsp;Email&nbsp;</kbd></a>
+    <a href="mailto:emiryorgun27@gmail.com"><kbd>&nbsp;&nbsp;Email&nbsp;&nbsp;</kbd></a>
   </font>
 </p>
